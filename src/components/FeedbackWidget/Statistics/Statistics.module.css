@@ -1,0 +1,9 @@
+.list li {
+    list-style: none;
+    text-align: left;
+    padding-left: 250px;
+}
+
+.list li+li {
+    margin-top: 7px;
+}
